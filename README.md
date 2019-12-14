@@ -1,1 +1,1 @@
-# Multiclass-Classification-using-CNN-for-CIFAR-10-
+# Multiclass-Classification-using-CNN-for-CIFAR-10
